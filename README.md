@@ -1,3 +1,1 @@
-### Hi there 👋
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![zzmingo's github stats](https://github-readme-stats.vercel.app/api?username=zzmingo&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
